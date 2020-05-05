@@ -1,0 +1,15 @@
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe.config
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\TwitterBot.pdb
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\Selenium.WebDriver.Extensions.dll
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\WebDriver.dll
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\WebDriver.Support.dll
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\Selenium.WebDriver.Extensions.xml
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\WebDriver.xml
+D:\Programming\TwitterBot\TwitterBot\bin\Debug\WebDriver.Support.xml
+D:\Programming\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csprojAssemblyReference.cache
+D:\Programming\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csproj.CopyComplete
+D:\Programming\TwitterBot\TwitterBot\obj\Debug\TwitterBot.exe
+D:\Programming\TwitterBot\TwitterBot\obj\Debug\TwitterBot.pdb
+D:\Programming\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csproj.CoreCompileInputs.cache
